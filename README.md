@@ -1,38 +1,25 @@
-## Welcome to My Reading Notes!!
+# Welcome to My Reading Notes!!
 
-You can use the [editor on GitHub](https://github.com/4AGfam/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello all,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Antonio George and I am currently enrolled at Code Fellows. I am a 36 years old Army veteran and a single father of two beautiful kids plus my little fur buddy. I currently reside in Orlando, FL and working in the HR field. I am in college to obtain my BS in Computer Science. I became very interested in programming and web development after taking a course on Udemy and Coursera. I love the challenge, the change of pace, the potential for growth, and the career flexibility of being a software/web developer. 
 
-### Growth Mindset
-1. Explain “growth mindset” in your own words
+![My Photo](https://user-images.githubusercontent.com/86638216/140870640-7758a30e-3238-44f8-a7d5-11e702cd1a69.jpg)
 
-2. Include 3 reminders to yourself of how to keep yourself in a growth mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Growth Mindset
 
-```markdown
-Syntax highlighted code block
+### **1. Explain “growth mindset” in your own words.**
+ 
+To me, the growth mindset is all about humility and resiliency. In order to grow you must be humble. This is simply realizing that you are not perfect, you will fail and that there is always room to grow. This is why resiliency is so important to the growth mindset. I believe that you must have a never quit attitude and a problem solving mentality.  
+ 
+### **2. Include 3 reminders to yourself of how to keep yourself in a growth mindset.**
+ 
+* You always have overcome what you set your mind too. 
+* In order to achieve your goals you must get comfortable with being uncomfortable.
+* No matter the challenge, be consistant with your focus, determination, and effort. 
 
-### Growth Mindset
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4AGfam/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Motivational Quote](https://images.unsplash.com/photo-1552508744-1696d4464960?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
+Photo by [Drew Beamer](https://unsplash.com/@drew_beamer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
+ 
