@@ -15,11 +15,11 @@ To me, the growth mindset is all about humility and resiliency. In order to grow
  
 ### **2. Include 3 reminders to yourself of how to keep yourself in a growth mindset.**
  
-* You always have overcome what you set your mind too. 
+* You have always have what you set your mind too. 
 * In order to achieve your goals you must get comfortable with being uncomfortable.
 * No matter the challenge, be consistant with your focus, determination, and effort. 
 
 ![Motivational Quote](https://images.unsplash.com/photo-1552508744-1696d4464960?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
-Photo by [Drew Beamer](https://unsplash.com/@drew_beamer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+*Photo by [Drew Beamer](https://unsplash.com/@drew_beamer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
   
  
