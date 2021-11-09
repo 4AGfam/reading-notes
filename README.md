@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My Reading Notes!!
 
 You can use the [editor on GitHub](https://github.com/4AGfam/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Growth Mindset
+1. Explain “growth mindset” in your own words
+
+2. Include 3 reminders to yourself of how to keep yourself in a growth mindset
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Growth Mindset
 
 - Bulleted
 - List
