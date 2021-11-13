@@ -1,6 +1,6 @@
 # Terminal CheatSheet
 
-## Notes: ##
+## Notes:
 
 1. **pwd:** *present working directory*
 
