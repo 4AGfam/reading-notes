@@ -4,9 +4,10 @@
 
 Hello all,
 
-My name is Antonio George and I am currently enrolled at Code Fellows. I am a 36 years old Army veteran and a single father of two beautiful kids plus my little fur buddy. I currently reside in Orlando, FL and working in the HR field. I am in college to obtain my BS in Computer Science. I became very interested in programming and web development after taking a course on Udemy and Coursera. I love the challenge, the change of pace, the potential for growth, and the career flexibility of being a software/web developer.
+My name is Antoio George and I am currently enrolled at Code Fellows. I am a 36 years old Army veteran and a single father of two beautiful kids plus my little fur buddy. I currently reside in Orlando, FL and working in the HR field. I am in college to obtain my BS in Computer Science. I became very interested in programming and web development after taking a course on Udemy and Coursera. I love the challenge, the change of pace, the potential for growth, and the career flexibility of being a software/web developer.
 
 ![My Photo](https://user-images.githubusercontent.com/86638216/140870640-7758a30e-3238-44f8-a7d5-11e702cd1a69.jpg)
+aa
 
 ## Growth Mindset
 
