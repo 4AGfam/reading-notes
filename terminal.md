@@ -8,18 +8,27 @@
     
 3. **cd [name-of-folder]:** *go into a specific folder*
 
-4. **cd ..** *- Go back a directory level
+4. **cd ..** *- Go back a directory level*
 
-5. **touch [filename.ext]:** *create a new file
+        - example: cd .. (goes backwards once) cd ../ (adds an additional back)
 
-6. **mkdir [name-of-directory]:** *create a new folder/directory
+5. **touch [filename.ext]:** *create a new file*
 
-7. **code .:** *open the whole directory into VS Code
+6. **mkdir [name-of-directory]:** *create a new folder/directory*
 
-8. **code [nameoffile.ext]:** *open the single file in VS Code
+7. **code .:** *open the whole directory into VS Code*
 
-9. **cp [current-location-of-file] [new-location-of-file]:** *copy a file to a new location
+8. **code [nameoffile.ext]:** *open the single file in VS Code*
 
-10. **mv [current-location-of-file] [new-location-of-file]:** *move a file from one location to another
+9. **cp [current-location-of-file] [new-location-of-file]:** *copy a file to a new location*
 
-11. **rm [name-of-file.ext]:** *remove/delete a file
+10. **mv [current-location-of-file] [new-location-of-file]:** *move a file from one location to another*
+
+11. **rm [name-of-file.ext]:** *removes/deletes a file*
+
+12. **clear:** *clears out terminal*
+
+13. **touch:** *creates a text file*
+
+        - example: touch name.txt
+      
