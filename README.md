@@ -22,3 +22,9 @@ To me, the growth mindset is all about humility and resiliency. In order to grow
 
 ![Motivational Quote](https://images.unsplash.com/photo-1552508744-1696d4464960?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
 _Photo by [Drew Beamer](https://unsplash.com/@drew_beamer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+
+## Table of Contents
+
+1. [Day 1: Markdown](/)
+2. [Day 2: Coders Computer](terminal.md)
+3. [Day 3: Git vs GitHub](git.md)
