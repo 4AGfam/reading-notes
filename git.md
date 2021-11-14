@@ -17,4 +17,4 @@
   </ul>
 
 <h2>The Life Cycle of File Status</h2>
-<img src="https://blog.udemy.com/wp-content/uploads/2015/08/image006.png>
+<img src="https://blog.udemy.com/wp-content/uploads/2015/08/image006.png">
