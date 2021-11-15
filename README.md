@@ -29,3 +29,6 @@ _Photo by [Drew Beamer](https://unsplash.com/@drew_beamer?utm_source=unsplash&ut
 1. [Day 1: Markdown](/)
 2. [Day 2: Coders Computer](terminal.md)
 3. [Day 3: Git vs GitHub](git.md)
+4. [Day 4: HTML](HTML.md)
+5. [Day 5: CSS](css.md)
+6. [Day 6: Dynamic JS](/)
