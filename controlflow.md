@@ -6,8 +6,6 @@
 
 <h2>Expressions and Operators</h2>
 
-<a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators">
-
 <p>Different types of Operators</p>
 
 <ul>
